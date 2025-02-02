@@ -5,3 +5,6 @@ Projects:
 1. made a SRS document for a project of online fee submission portal
 2. made a virtual traffic simualtion system using OOP concepts of c++
 3. worked on some front end Projects
+Skills:
+1. programming languages: c++ , javascript
+2. front end development : html , css, bootsrap
