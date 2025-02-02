@@ -1,0 +1,7 @@
+hi! myself Ezza Tahir
+Education:
+Currently , i am in my 4th semster og BSIT at International Islamic University Islamabad , Pakistan
+Projects:
+1. made a SRS document for a project of online fee submission portal
+2. made a virtual traffic simualtion system using OOP concepts of c++
+3. worked on some front end Projects
